@@ -1,0 +1,7 @@
+langchain-text-splitters
+langchain-community
+langgraph
+langchain-mistralai
+pandas
+fuzzywuzzy
+python-Levenshtein
